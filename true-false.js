@@ -1,5 +1,5 @@
 // 0, "" empty string, undefined, null, NaN, false, = false value.
-// 4, string, '0', ' ', [], empty array, empty {} object, true = true value.
+// 4, string, '0', ' ', [], empty array, empty {} object, = true value.
 const name = "solaiman";
 
 if (name.length > 0){
